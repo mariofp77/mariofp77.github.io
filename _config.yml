@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Mario
 middle_name: 
 last_name: Fernández-Pendás
-email: mariofp77@gmail.com
+email: mario.fernandez@ehu.eus
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Aacademic webpage for Phd Mario Fernandez-Pendas. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
