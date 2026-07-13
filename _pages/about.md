@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ekoizpen-zientifikoa.ehu.eus/investigadores/2333147/detalle%3Flang%3Deu&ved=2ahUKEwjXjazTntCVAxUwHjQIHTr2EpkQFnoECCIQAQ&usg=AOvVaw1MOLN0F54Vyrh04HvZbTuR'>EHU</a>. Assistant Professor in the Deparment of Quantitative Methods of the University of the Basque Country
+subtitle: <a href='https://ekoizpen-zientifikoa.ehu.eus/investigadores/2333147/detalle?lang=eu'>Assistant Professor</a> in the Deparment of Quantitative Methods of the University of the Basque Country (EHU)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Metodo Kuantitatiboak Saila / Departamento de Métodos Cuantitativos</p>
-    <p>Ekonomia eta Enpresa Fakultatea / Facultad de Economía y Empresa (Sarriko)</p>
+    <p>Metodo Kuantitatiboak Saila</p>
+    <p>Ekonomia eta Enpresa Fakultatea</p>
     <p>Euskal Herriko Unibertsitatea EHU</p>
     <p>Avenida Lehendakari Aguirre 83</p>
     <p>E-48015 Bilbao, Basque Country</p>
