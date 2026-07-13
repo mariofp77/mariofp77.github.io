@@ -2,17 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=''https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ekoizpen-zientifikoa.ehu.eus/investigadores/2333147/detalle%3Flang%3Deu&ved=2ahUKEwjXjazTntCVAxUwHjQIHTr2EpkQFnoECCIQAQ&usg=AOvVaw1MOLN0F54Vyrh04HvZbTuR>EHU</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://ekoizpen-zientifikoa.ehu.eus/investigadores/2333147/detalle%3Flang%3Deu&ved=2ahUKEwjXjazTntCVAxUwHjQIHTr2EpkQFnoECCIQAQ&usg=AOvVaw1MOLN0F54Vyrh04HvZbTuR'>EHU</a>. Assistant Professor in the Deparment of Quantitative Methods of the University of the Basque Country
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>BCMaterials</p>
-    <p>Bld. Martina Casiano, 3rd. Floor</p>
-    <p>UPV/EHU Science Park, Barrio Sarriena s/n</p>
-    <p>48940 Leioa, Basque Country</p>
+    <p>Metodo Kuantitatiboak Saila / Departamento de Métodos Cuantitativos</p>
+    <p>Ekonomia eta Enpresa Fakultatea / Facultad de Economía y Empresa (Sarriko)</p>
+    <p>Euskal Herriko Unibertsitatea EHU</p>
+    <p>Avenida Lehendakari Aguirre 83</p>
+    <p>E-48015 Bilbao, Basque Country</p>
+    <p>+34 94 601 3733</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
