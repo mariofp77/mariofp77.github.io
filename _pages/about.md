@@ -31,8 +31,6 @@ latest_posts:
 ---
 
 WORK IN PROGRESS - THIS PAGE WILL BE RELEASED SOON
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
->>>>>>> upstream/main
 
 I am mainly interested in the development of enhanced sampling techniques and numerical methods applied to the field of molecular simulation. I have worked with several techniques that range from Hybrid Monte Carlo methods and numerical integrators to Markov State Models or free energy calculations. I contribute both in the theoretical formulation of the methods and the practical implementation in different software packages aiming at running at high performance computers.
 
