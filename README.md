@@ -291,7 +291,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
       - [Code quality checks](#code-quality-checks)
       - [GDPR Cookie Consent Dialog](#gdpr-cookie-consent-dialog)
   - [FAQ](#faq)
-      - [Related posts](#related-posts-1)
+    - [Related posts](#related-posts-1)
   - [Contributing](#contributing)
     - [Maintainers](#maintainers)
     - [All Contributors](#all-contributors)
